@@ -25,6 +25,9 @@
 	@font-face{
 	    font-family:"cassannet-plus-regular";
 	    src:url("fonts/cassannet_plus_regular-webfont.ttf");
+	    src:url("fonts/cassannet_plus_regular-webfont.woff");
+		src:url("fonts/cassannet_plus_regular-webfont.woff2");
+		src:url("fonts/cassannet_plus_regular-webfont.eot");
 	}
 
 	.header-box{
